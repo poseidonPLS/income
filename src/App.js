@@ -36,7 +36,7 @@ function App() {
     <div className="App">
       <h1>PulseChain Validator Balance and Income</h1>
       <p className="disclaimer">
-        The accuracy of this information relies on the indexing of the beacon explorer. No responsibility is taken for any inaccuracies. Please note that positive values indicate income, while a single negative value, shown in red, represent a withdrawal to the wallet.
+        The accuracy of this information relies on the indexing of the beacon explorer. No responsibility is taken for any inaccuracies. Please note that positive values indicate income, while a single negative value (shown in red) represent a withdrawal to the wallet.
       </p>
       <div className="input-container">
         <input
